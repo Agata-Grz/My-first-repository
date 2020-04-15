@@ -1,1 +1,1 @@
-Pierwotna zawartosc pliku.
+Zmiana zawartosci pliku.
