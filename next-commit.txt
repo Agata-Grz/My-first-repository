@@ -1,1 +1,1 @@
-Agata-Grz/My-first-repositorerwsza zawartosc pliku next-commit.txt
+Pierwsza zmiana zawartosc pliku next-commit.txt
