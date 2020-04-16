@@ -1,2 +1,2 @@
 Dodanie nowej funkcjonalności branch-1-test
-wprowadzenie dodatkowych zmian.
+Zmiana w dodanej funkcjonalnosci.
