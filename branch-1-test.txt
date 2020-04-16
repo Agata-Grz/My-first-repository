@@ -1,1 +1,2 @@
-Dodanie nowej funkcjonalności branch-1-test.
+Dodanie nowej funkcjonalności branch-1-test
+wprowadzenie dodatkowych zmian.
